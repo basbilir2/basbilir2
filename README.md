@@ -10,11 +10,11 @@ Maintained by [basbilir2](https://github.com/basbilir2). This portfolio collects
 | [Design Recovery / Netleştirme](https://github.com/basbilir2/codex-netlestirme) | Image understanding and artwork reconstruction experiments |
 | [DTF Studio](https://github.com/basbilir2/codex-dtf-studio) | DTF artwork and print-layout workflows |
 | [Sipariş Takip](https://github.com/basbilir2/codex-siparis-takip) | Order-tracking software |
-| [Sipariş Takip VS](https://github.com/basbilir2/codex-siparis-takip-vs) | Independent order-tracking project |
+| [Sipariş Takip VS](https://github.com/basbilir2/codex-proje-envanteri/tree/main/projects/codex-siparis-takip-vs) | Independent order-tracking project |
 | [BTakip](https://github.com/basbilir2/codex-btakip) | Stock and business tracking |
-| [THesap](https://github.com/basbilir2/codex-thesap) | Cost and pricing calculations |
-| [GeneralVS / agent work](https://github.com/basbilir2/codex-generalvs-calismalari) | Local development-worker experiments |
-| [Local AI OS](https://github.com/basbilir2/codex-local-ai-os) | Local AI workflow experiments |
+| [THesap](https://github.com/basbilir2/codex-proje-envanteri/tree/main/projects/codex-thesap) | Cost and pricing calculations |
+| [GeneralVS / agent work](https://github.com/basbilir2/codex-proje-envanteri/tree/main/projects/codex-generalvs-calismalari) | Local development-worker experiments |
+| [Local AI OS](https://github.com/basbilir2/codex-proje-envanteri/tree/main/projects/codex-local-ai-os) | Local AI workflow experiments |
 
 ## Planned development agent
 
@@ -26,3 +26,5 @@ Projects have different maturity levels. See each repository's installation guid
 
 Original contributions are MIT licensed; third-party components retain their own terms. Public copies exclude customer datasets, personal contact details, credentials, private account configuration and private Git history. Fine-tuned weights based on private training data remain in private archives.
 
+
+[Browse all public project sources](https://github.com/basbilir2/codex-proje-envanteri#all-public-project-sources).
